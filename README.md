@@ -2,9 +2,10 @@
 some subjects to practice OOP
 
 subjects:
-1. practice overloading constructor
-2. practice overloading operators
-   the use of member function and friend function
+1. overloading constructor
+2. overloading operators(+,-,*)
+   with the use of member function and non-member function
 3. overloading prefix/postfix ++
+   with the use of member function and non-member function
 4. 
 
