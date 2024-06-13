@@ -10,4 +10,5 @@ subjects:
 4. vector
 5. C-string and string
 6. array, pointer, 2-dim array
+7. matrix multiplication
 
