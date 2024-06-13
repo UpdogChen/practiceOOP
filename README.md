@@ -9,4 +9,5 @@ subjects:
    with the use of member function and non-member function
 4. vector
 5. C-string and string
+6. array, pointer, 2-dim array
 
