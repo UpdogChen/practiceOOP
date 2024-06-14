@@ -11,4 +11,5 @@ subjects:
 5. C-string and string
 6. array, pointer, 2-dim array
 7. matrix multiplication
+8. inheritance and virtual function
 
