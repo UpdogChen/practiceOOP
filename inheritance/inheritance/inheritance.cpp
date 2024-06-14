@@ -11,7 +11,7 @@ public:
 	void setAge(int Age);
 	int getAge() const;
 	virtual void print() const;
-private:
+protected:
 	string name;
 	int age;
 };
@@ -70,7 +70,7 @@ string cat::getBreed() const {
 }
 
 void cat::print() const {
-	cout << "Name: " << getName() << endl;
-	cout << "Age: " << getAge() << endl;
+	cout << "Name: " << name << endl;
+	cout << "Age: " << age << endl;
 	cout << "Breed: " << breed << endl;
 }
